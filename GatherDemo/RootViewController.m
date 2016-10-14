@@ -9,7 +9,7 @@
 #import "RootViewController.h"
 
 @interface RootViewController ()
-
+@property (nonatomic, strong) UILabel *label;
 @end
 
 @implementation RootViewController

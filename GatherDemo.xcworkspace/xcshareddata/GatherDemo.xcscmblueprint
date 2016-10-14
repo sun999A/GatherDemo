@@ -1,14 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5287D3AA0B30512FD7B9CC790E99C454FC399F94",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5287D3AA0B30512FD7B9CC790E99C454FC399F94+++1200C97",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "5287D3AA0B30512FD7B9CC790E99C454FC399F94" : 9223372036854775807
+    "5287D3AA0B30512FD7B9CC790E99C454FC399F94+++CBEC83C" : 9223372036854775807,
+    "5287D3AA0B30512FD7B9CC790E99C454FC399F94+++2B72786" : 9223372036854775807,
+    "5287D3AA0B30512FD7B9CC790E99C454FC399F94+++1200C97" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "69D93756-4D0B-45C3-90A0-30D711B684EC",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "5287D3AA0B30512FD7B9CC790E99C454FC399F94" : ""
+    "5287D3AA0B30512FD7B9CC790E99C454FC399F94+++CBEC83C" : "",
+    "5287D3AA0B30512FD7B9CC790E99C454FC399F94+++2B72786" : "",
+    "5287D3AA0B30512FD7B9CC790E99C454FC399F94+++1200C97" : "GatherDemo\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "GatherDemo",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -17,12 +21,17 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sun999A\/GatherDemo.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5287D3AA0B30512FD7B9CC790E99C454FC399F94"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5287D3AA0B30512FD7B9CC790E99C454FC399F94+++1200C97"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sun999A\/GatherDemo.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5287D3AA0B30512FD7B9CC790E99C454FC399F94"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5287D3AA0B30512FD7B9CC790E99C454FC399F94+++2B72786"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sun999A\/GatherDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5287D3AA0B30512FD7B9CC790E99C454FC399F94+++CBEC83C"
     }
   ]
 }
