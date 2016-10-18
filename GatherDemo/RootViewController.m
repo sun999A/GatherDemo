@@ -7,15 +7,30 @@
 //
 
 #import "RootViewController.h"
-
+#import "UIView+ViewEmpty.h"
 @interface RootViewController ()
-@property (nonatomic, strong) UILabel *label;
+{
+    UITableView *myTable;
+}
 @end
 
 @implementation RootViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor whiteColor];
+//    [self.view showNetWorkErrorWithRefresh:^{
+//        NSLog(@"刷新");
+//    }];
+    
+//    [self.view showEmptyViewWithRefresh:^{
+//         NSLog(@"返回");
+//    }];
+   
+    
+    [self.view showWithImageName:@"h_shengxian" title:@"没有数据" detailTitle:@"" buttonTitle:@"返回" refresh:^{
+        NSLog(@"刷新");
+    }];
     // Do any additional setup after loading the view.
 }
 
