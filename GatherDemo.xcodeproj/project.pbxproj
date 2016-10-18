@@ -16,6 +16,7 @@
 		4C1FF3F71DB0D2D20020331D /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C1FF3F61DB0D2D20020331D /* RootViewController.m */; };
 		4C33437A1DB603D9006E3EA5 /* h_shengxian.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C3343791DB603D9006E3EA5 /* h_shengxian.png */; };
 		4C3343801DB6181C006E3EA5 /* UIView+ViewEmpty.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C33437F1DB6181C006E3EA5 /* UIView+ViewEmpty.m */; };
+		4C3343861DB61EC6006E3EA5 /* ActionSheetBottom.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C3343851DB61EC6006E3EA5 /* ActionSheetBottom.m */; };
 		A7B39A24960F6B6105AF3ADE /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 304F8744CF99783C015AAB6D /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,8 @@
 		4C3343791DB603D9006E3EA5 /* h_shengxian.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = h_shengxian.png; sourceTree = "<group>"; };
 		4C33437E1DB6181C006E3EA5 /* UIView+ViewEmpty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+ViewEmpty.h"; sourceTree = "<group>"; };
 		4C33437F1DB6181C006E3EA5 /* UIView+ViewEmpty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+ViewEmpty.m"; sourceTree = "<group>"; };
+		4C3343841DB61EC6006E3EA5 /* ActionSheetBottom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ActionSheetBottom.h; sourceTree = "<group>"; };
+		4C3343851DB61EC6006E3EA5 /* ActionSheetBottom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ActionSheetBottom.m; sourceTree = "<group>"; };
 		A6FED8041195A2B7B29A1365 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -117,6 +120,8 @@
 				4C1FF3F61DB0D2D20020331D /* RootViewController.m */,
 				4C33437E1DB6181C006E3EA5 /* UIView+ViewEmpty.h */,
 				4C33437F1DB6181C006E3EA5 /* UIView+ViewEmpty.m */,
+				4C3343841DB61EC6006E3EA5 /* ActionSheetBottom.h */,
+				4C3343851DB61EC6006E3EA5 /* ActionSheetBottom.m */,
 				4C1FF3CE1DB0C3CD0020331D /* Assets.xcassets */,
 				4C1FF3D01DB0C3CD0020331D /* LaunchScreen.storyboard */,
 				4C3343791DB603D9006E3EA5 /* h_shengxian.png */,
@@ -357,6 +362,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C1FF3CD1DB0C3CD0020331D /* AppDelegate.m in Sources */,
+				4C3343861DB61EC6006E3EA5 /* ActionSheetBottom.m in Sources */,
 				4C3343801DB6181C006E3EA5 /* UIView+ViewEmpty.m in Sources */,
 				4C1FF3CA1DB0C3CD0020331D /* main.m in Sources */,
 				4C1FF3F71DB0D2D20020331D /* RootViewController.m in Sources */,
